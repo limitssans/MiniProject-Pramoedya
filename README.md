@@ -5,20 +5,8 @@
 > **Mini Project BIF1223 Struktur Data Bioinformatika, IPB University**.
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)](https://python.org)
-[cite_start][![Course](https://img.shields.io/badge/Course-BIF1223-blue)](https://ipb.ac.id) 
-[cite_start][![Deadline](https://img.shields.io/badge/Deadline-27_Juni_2026-red)](https://class.ipb.ac.id) 
-
----
-
-## 📋 Daftar Isi
-
-- [Fitur Utama (Sistem CLI)](#-fitur-utama-sistem-cli)
-- [Arsitektur Sistem](#-arsitektur-sistem)
-- [Konsep Struktur Data Berbasis Code](#-konsep-struktur-data-berbasis-code)
-- [Panduan Penggunaan & Instalasi](#-panduan-penggunaan--instalasi)
-- [Struktur Project](#-struktur-project)
-- [Format Output](#-format-output)
-- [Aplikasi Pelengkap (Web Version)](#-aplikasi-pelengkap-web-version)
+[![Course](https://img.shields.io/badge/Course-BIF1223-blue)](https://ipb.ac.id) 
+[![Deadline](https://img.shields.io/badge/Deadline-27_Juni_2026-red)](https://class.ipb.ac.id) 
 
 ---
 

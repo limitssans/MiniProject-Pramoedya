@@ -1,1 +1,3 @@
-# MiniProject-Pramoedya
+# MiniProject Struktur Data Bioinformatika
+
+
